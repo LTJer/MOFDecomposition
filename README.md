@@ -4,7 +4,7 @@
 3. Collect the building blocks from the "BUoutput" folder.
 
 
-Note: There are two different output file types: .xyz and .cif. Generally, the .xyz file contains the final building blocks, whereas the .cif file may provide more detailed structural information. Therefore, please first attempt to fetch the structure from the .xyz file. If it is empty, then utilize the .cif file.
+Note: There are two different output file types: .xyz and .cif. The .xyz file contains the final building blocks, whereas the .cif file may provide more detailed structural information. Therefore, please first attempt to fetch the structure from the .xyz file. If it is empty, then utilize the .cif file.
 
 Additionally, if possible, please collect all the MOFs in the "Failcifs" folder and send them to Jerry to aid in improving the algorithm.
 
