@@ -1,6 +1,6 @@
 # MOFDecomposition
-1. Place the MOF CIF file into the "Inputcifs" folder.
-2. Run the MOFdecompose_v2.py script.
+1. Place the CIF files into the "Inputcifs" folder.
+2. Run the MOFdecompose.py script.
 3. Collect the building blocks from the "BUoutput" folder.
 
 
